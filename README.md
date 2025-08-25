@@ -3,12 +3,12 @@
 - 👀 Interested in web development, Java, and automotive protocols  
 - 🌱 Currently learning React js
 - 💞️ Open to collaborate on open-source and innovative projects  
-- 📫 Reach me at: (srioppo4637@gmail.com)  
+- 📫 Reach me at: srioppo4637@gmail.com
 
 ## 🔗 Contact Information
-- Email: (srioppo4637@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/srikanth46/)
-- GitHub: (https://github.com/SriKanth-leo) 
+- Email: srioppo4637@gmail.com
+- LinkedIn: https://www.linkedin.com/in/srikanth46/
+- GitHub: https://github.com/SriKanth-leo
 
 ## 💻 I Code In
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
