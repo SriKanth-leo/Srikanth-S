@@ -1,7 +1,7 @@
 # Hi, I'm @Srikanth 👋
 
 - 👀 Interested in web development, Java, and automotive protocols  
-- 🌱 Currently learning React & SDN  
+- 🌱 Currently learning React js
 - 💞️ Open to collaborate on open-source and innovative projects  
 - 📫 Reach me at: (srioppo4637@gmail.com)  
 
@@ -24,9 +24,10 @@
 ![CANdb++](https://img.shields.io/badge/CANdb++-FF6F00?style=for-the-badge&logo=car&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA%20Community-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA%20Community-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 
 ## 💻 Workspace Spec
 - Ryzen 5 5000U
